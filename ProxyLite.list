@@ -1,7 +1,10 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,51cg1.com
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,dmhy.org
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
