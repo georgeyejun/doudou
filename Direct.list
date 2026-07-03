@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,hp.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
